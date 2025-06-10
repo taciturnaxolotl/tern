@@ -7,7 +7,7 @@ created_at: "2025-5-29"
 
 # The Journal
 
-**Total Time spent: 5 hours**
+**Total Time spent: 7 hours**
 
 hopefully this ends up being semi interesting to read lol
 
@@ -24,7 +24,7 @@ Did a bunch of brainstorming about which motors and frame I want to use and sent
 
 Did a ton of research on the different dji headsets. I pretty much just started to ignore dji stuff a few years ago since I was only flying analog so I'm rather out of touch. So far i'm fairly sure i've settled on the DJI n3 instead of the goggles 3 or integra. A fair bit cheaper ($220 vs $400) and from the reviews i've seen a bit better for glasses wearers (of which i definetly am one) since there is a bit of extra space in the goggles. Annoyingly the o4 pro unit seems to be very much out of stock pretty much everywhere. I've stuck out some feelers on ebay and a few other places to see if I can get one used for around the same price or just a tad bit more than new.
 
-**4 hours**
+**5 hours**
 
 ### 2025-06-10 - Tuesday after lunch :)
 
@@ -45,3 +45,7 @@ One really nice bit is that the aio comes with all the cables and such
 ![aio parts list](https://store-fhxxhuiq8q.mybigcommerce.com/product_images/img_speedybee_f405_aio_40a/F405-AIO-5-EN_12.jpg)
 
 Oh goodness was that horrible. I paid for all the components except for the frame, batteries, and o4 air unit. My bank actually contacted me for withdrawing so much lol.
+
+Just made the wiring digram! I did it on figma over at [https://www.figma.com/board/V3yHTGLW7VbZYWka2fCPID/tern-wiring-diagram](https://www.figma.com/board/V3yHTGLW7VbZYWka2fCPID/tern-wiring-diagram?node-id=0-1&t=AxakkIcfGteMs2AB-1) and it wasnt terrible! I would have prefered slightly better routing but idk you do what you have to :)
+
+![Wiring Diagram](https://raw.githubusercontent.com/taciturnaxolotl/tern/main/schematic.jpg)

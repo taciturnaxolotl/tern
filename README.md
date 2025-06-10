@@ -20,6 +20,7 @@
 | GNB 850mah 120c batteries | 1 | $41.99 | [amazon](https://www.amazon.com/dp/B0B68MV9LD) | |
 | speedybee f405 aio | 1 | $55.99 | [speedybee](https://www.speedybee.com/speedybee-f405-aio-40a-bluejay-25-5x25-5-3-6s-flight-controller/) | comes with the screws, standoffs, xt30 pigtail, and dji pigtail |
 | vifly finder 2 beeper | 1 | $19.49 | [getfpv](https://www.getfpv.com/vifly-finder-2-drone-buzzer.html) | |
+| |
 
 Total: `$749.35`  
 Subtotal (without DJI equipment): `$291.35`  
@@ -34,6 +35,10 @@ Ebay: `~$230` (we will see if I can get the O4 from here)
 All together with tax and shipping: `$802.21`
 
 ## Build Notes
+
+The wiring digram is on [figma](https://www.figma.com/board/V3yHTGLW7VbZYWka2fCPID/tern-wiring-diagram?node-id=0-1&t=AxakkIcfGteMs2AB-1) as well as in the image right below this.
+
+![Wiring Diagram](https://raw.githubusercontent.com/taciturnaxolotl/tern/main/schematic.jpg)
 
 I'll stick some stuff here eventually
 
