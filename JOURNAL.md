@@ -7,7 +7,7 @@ created_at: "2025-5-29"
 
 # The Journal
 
-**Total Time spent: 7 hours**
+**Total Time spent: 8 hours**
 
 hopefully this ends up being semi interesting to read lol
 
