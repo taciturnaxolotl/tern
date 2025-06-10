@@ -43,3 +43,5 @@ The flight stack is going to be a speedybee 405 aio which has some very nice shi
 One really nice bit is that the aio comes with all the cables and such 
 
 ![aio parts list](https://store-fhxxhuiq8q.mybigcommerce.com/product_images/img_speedybee_f405_aio_40a/F405-AIO-5-EN_12.jpg)
+
+Oh goodness was that horrible. I paid for all the components except for the frame, batteries, and o4 air unit. My bank actually contacted me for withdrawing so much lol.
